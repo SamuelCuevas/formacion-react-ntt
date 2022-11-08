@@ -1,0 +1,19 @@
+.header {
+    width: 100vw;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.coral {
+    background: coral;
+}
+
+.red {
+    background: red;
+}
+
+.yellow {
+    background: yellow;
+}
